@@ -21,7 +21,7 @@ To get started with this repository, follow these steps:
 1. Clone the repository to your local machine using Git:
 
    ```
-   git clone https://github.com/your-username/Java-Spring-Boot-1Day-Training.git
+   git clone https://github.com/rapeeza1598/Java-Spring-Boot-1Day-Training.git
    ```
 
 2. Explore the directories and files to understand the structure of the Spring Boot application.
